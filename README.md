@@ -1,3 +1,5 @@
+# Audio Scene Analysis
+This repository contains the source code for our project on audio scene analysis. The goal of the project was to develop a system capable of accurately analyzing and interpreting real-life audio scenes, using machine learning and signal processing techniques.
 
 ## Audio Scene Analysis
 
